@@ -1,0 +1,10 @@
+
+path: ./
+train: face_mask/train
+val: face_mask/val
+test: face_mask/val
+
+
+nc: 2  # number of classes
+names: ['face','mask']
+
